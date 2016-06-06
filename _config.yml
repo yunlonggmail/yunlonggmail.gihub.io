@@ -5,7 +5,6 @@ tagline: "yunlong"
 description: "史云龙"
 baseurl: "https://yunlonggmail.github.io"
 url: ""
-github_username: "yunlonggmail"
 
 # About/contact
 owner:
@@ -18,11 +17,11 @@ gavatar:
 favicon: img/favicon.png
 
 douban_username:
-twitter_username:
-github_username:
+twitter_username: yunlong_666666
+github_username: yunlonggmail
 facebook_username:
-weibo_username:
-zhihu_username:
+weibo_username: 5679396013
+zhihu_username: yun-long-shi-wo
 
 # Build settings
 # use Github Flavored Markdown !important
