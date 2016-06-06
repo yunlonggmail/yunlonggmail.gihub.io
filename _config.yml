@@ -3,8 +3,9 @@ title: 博客
 header-img: "img/semantic.jpg"
 tagline: "yunlong"
 description: "史云龙"
-baseurl: ""
+baseurl: "https://yunlonggmail.github.io/"
 url: ""
+github_username: "yunlonggmail"
 
 # About/contact
 owner:
